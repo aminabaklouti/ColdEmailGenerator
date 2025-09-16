@@ -13,7 +13,7 @@ Atliq is Software Development company can provide a dedicated software developme
 
 1. **Get an API Key**  
    - Go to [Groq Console](https://console.groq.com/keys) and create a new API key.  
-   - Inside the `APP/.env` file, set your key:  
+   - Inside the `app/.env` file, set your key:  
      ```env
      GROQ_API_KEY=your_api_key_here
      ```
@@ -23,6 +23,7 @@ Atliq is Software Development company can provide a dedicated software developme
    ```bash
    pip install -r requirements.txt
 3. **Run the Streamlit App**
+   ```bash
    streamlit run app/main.py
 
 
