@@ -8,7 +8,7 @@ Atliq is Software Development company can provide a dedicated software developme
 <img width="1364" height="869" alt="image" src="https://github.com/user-attachments/assets/717afb68-3155-458d-8afa-7bf968167736" />
 ## Workflow Diagram
 <img width="1335" height="590" alt="image" src="https://github.com/user-attachments/assets/5f5352ea-10ec-434d-97ba-8728125b3db2" />
-## Setup
+# Setup
 
 1. **Get an API Key**  
    - Go to [Groq Console](https://console.groq.com/keys) and create a new API key.  
